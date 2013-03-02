@@ -22,7 +22,7 @@ import backtype.storm.topology.TopologyBuilder;
 import backtype.storm.tuple.Fields;
 
 /**
- * @author Gao, Fei (eaglelion8038@hotmail.com)
+ * @author Gao, Fei (anbu@hotmail.com)
  *
  */
 public class AssociatePatternMiningTopology {
